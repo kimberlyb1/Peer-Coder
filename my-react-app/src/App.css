@@ -1,0 +1,53 @@
+/*CSS for Home Component*/
+.Home {
+  text-align: center;
+}
+
+.Home-header {
+  background-color: #002855; /* Dark Blue from the logo */
+  padding: 20px;
+  color: white;
+}
+
+.Home-header img {
+  height: 80px;
+}
+
+.Home-features, .Home-testimonials {
+  background-color: #ffffff; /* White */
+  color: #002855; /* Dark Blue */
+  padding: 20px;
+}
+
+.Home-features h2, .Home-testimonials h2 {
+  color: #0072ce; /* Light Blue from the logo */
+}
+
+.Home-button {
+  background-color: #0072ce; /* Light Blue */
+  color: white;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+.Home-button:hover {
+  background-color: #005bb5; /* Slightly darker blue for hover effect */
+}
+
+.Home-footer {
+  background-color: #002855; /* Dark Blue */
+  color: white;
+  padding: 10px;
+}
+
+.Home-footer a {
+  color: #0072ce; /* Light Blue */
+  text-decoration: none;
+}
+
+.Home-footer a:hover {
+  text-decoration: underline;
+}
+
